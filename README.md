@@ -2,6 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Start the server :
+The server connection String is in the sercer.js File
 cd to src/Backend:
 nodemon server
 ## Start the Frontend : 
@@ -9,6 +10,7 @@ nodemon server
  login using :
  email:yashraj@gmail.com
  pass:123456
+ 
 ## Available Scripts
 
 In the project directory, you can run:
