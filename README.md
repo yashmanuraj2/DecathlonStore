@@ -1,7 +1,14 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+## Start the server :
+cd to src/Backend:
+nodemon server
+## Start the Frontend : 
+ In the root directory npm start
+ login using :
+ email:yashraj@gmail.com
+ pass:123456
 ## Available Scripts
 
 In the project directory, you can run:
